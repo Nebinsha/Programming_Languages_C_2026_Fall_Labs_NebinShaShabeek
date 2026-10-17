@@ -1,0 +1,3 @@
+Welcome to Week 5 C programming.
+this program demonstrates text file handling.
+We can write and read data using C.
